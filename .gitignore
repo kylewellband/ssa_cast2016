@@ -1,0 +1,11 @@
+*.bed
+*.bim
+*.fam
+*.ped
+*.map
+*.log
+*.in
+*.out
+*.arp
+*.gen
+*.txt
