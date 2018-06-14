@@ -7,5 +7,6 @@
 *.in
 *.out
 *.arp
+*.ars
 *.gen
 *.txt
